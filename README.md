@@ -11,3 +11,5 @@ This project provides information and resources for the design of Frequency-Modu
   - 5725 - 5875 เมกะเฮิรตซ์ 10 mW e.i.r.p. ได้รับยกเว้นใบอนุญาต เรดาร์ - - (ปลอดภัย 150MHz bandwidth)
 - รายการ 5 ภาคผนวก ง **หลักเกณฑ์การใช้คลื่นความถี่ย่าน ๕ กิกะเฮิรตซ** [Local PDF](./files/17111422.pdf)| [Original Source](https://ratchakitcha.soc.go.th/documents/17111422.pdf)  
 
+## YouTube  
+- [FMCW Radar by Marshall Bruner](https://youtube.com/playlist?list=PLPQrZqhah1qGvTfkslUUSC1YRa4i1jHTO&si=hZFqPevOXJLg9csS)
